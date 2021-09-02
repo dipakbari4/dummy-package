@@ -1,5 +1,5 @@
 {
-  "name": "dummy-package",
+  "name": "dummy-package-tsl",
   "version": "1.0.0",
   "description": "A dummy package to test from npm registry into my local project(s).",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dipakbari4/dummy-package.git"
+    "url": "git+https://github.com/dipakbari4/dummy-package-tsl.git"
   },
   "keywords": [
     "npm",
