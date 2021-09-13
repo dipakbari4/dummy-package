@@ -9,12 +9,12 @@ npm i dummy-package-tsl
 
 ```
 
-> Ssage
+> Usage
 
 ```node
 
 // Import the package
-const msg = require('dummy-package-tsl);
+const msg = require('dummy-package-tsl');
 
 // Call to print message
 msg.printMsg();
