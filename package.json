@@ -1,6 +1,6 @@
 {
   "name": "dummy-package-tsl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dummy package to test from npm registry into my local project(s).",
   "main": "index.js",
   "scripts": {
