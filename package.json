@@ -14,7 +14,9 @@
   "keywords": [
     "npm",
     "nodejs",
-    "javascript"
+    "javascript",
+    "dummy",
+    "vanilla-js"
   ],
   "author": "Dipak Bari",
   "license": "MIT",
